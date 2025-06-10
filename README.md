@@ -36,7 +36,7 @@ The project is centered around the following key research questions:
 ## Methods
 
 - **Exploratory Data Analysis** using pandas, seaborn, and Plotly.
-- **Boolean classification** of songs based on explicit lyrics, collaborations, and alternate versions.
+- **Boolean feature engineering** of songs based on explicit lyrics, collaborations, and alternate versions.
 - **Trend analysis** across years and comparison of average popularity by category.
 - **Data visualization** through histograms, scatter plots, box plots, and line graphs.
 
