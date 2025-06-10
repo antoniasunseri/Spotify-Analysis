@@ -31,7 +31,7 @@ The project is centered around the following key research questions:
 - Engineered features:
   - `is_featured`: True if the song contains "feat.", "&", "x", etc.
   - `is_remix_or_edit`: True if the title contains "remix", "edit", "version", etc.
-- Normalized some continous variables.
+- Transformed all continuous variables to normal distributions.
 - Cleaned genres to reduce it from 59 categories to 12 categories.
 
 ## Methods
