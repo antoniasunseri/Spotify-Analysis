@@ -5,7 +5,7 @@
 -	Selecting a popularity threshold to analyze the charts will contain data including the given value and those with a more level of popularity.
 -	Finally, the radio button can be used whether to analyze songs with profanity content and without profanity content.
 
-## Definition of plot.
+## Definition of plots.
 
 -	The pie chart will show the distribution of genres of the selected data.
 -	The bar chart will include the number of songs released per year. This can be zoomed in too.
