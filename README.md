@@ -49,7 +49,7 @@ The project is centered around the following key research questions:
 
 ## Technologies Used
 
-- Python 3.12
+- Python 3.13.2
 - Pandas
 - Plotly
 - Dash (for interactive dashboard)
@@ -58,7 +58,7 @@ The project is centered around the following key research questions:
 
 ## Acknowledgments
 
-- Instructor Rahim Rasool.
+- Instructor Rahim Rasool for constant guidance and support throughout the project.
 - Kaggle community for providing the dataset.
 - Spotify for the original music metadata.
 - Matplotlib and seaborn for static visuals and other python libraries to support these.
