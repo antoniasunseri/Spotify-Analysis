@@ -58,7 +58,7 @@ The project is centered around the following key research questions:
 
 ## Acknowledgments
 
-- Instructor Rahim Rasool
+- Instructor Rahim Rasool.
 - Kaggle community for providing the dataset.
 - Spotify for the original music metadata.
 - Matplotlib and seaborn for static visuals and other python libraries to support these.
